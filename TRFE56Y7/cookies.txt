@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wristsl.it	TRUE	/	FALSE	1999999999	__cfduid	dc3276e8c7ebf0f54741b8da3f66899cc1601313644
+wristsl.it	TRUE	/	FALSE	1999999999	SameSite	Lax
+.niggers.host	TRUE	/	FALSE	1999999999	__cfduid	dd4a31f15b6d5b5344a8c8bd9b28d22ca1601313645
+niggers.host	TRUE	/	FALSE	1999999999	SameSite	Lax
+
